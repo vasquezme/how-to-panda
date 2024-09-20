@@ -1,7 +1,8 @@
 # how-to-pandas
-how-to-pandas
 
 Use Python Pandas to explore, summarize and visualize data
+
+<hr />
 
 Steps:
 - upload .csv
@@ -9,7 +10,8 @@ Steps:
 - create vizualizations
 - export
 
-<br>
+<hr />
+
 Sources:
 
 - https://pandas.pydata.org/pandas-docs/stable/index.html
