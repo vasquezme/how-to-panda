@@ -21,3 +21,9 @@ Sources:
 - https://www.geeksforgeeks.org/
 
 - https://zerotomastery.io/blog/summary-statistics-in-python/
+
+- https://zapier.com/blog/python-automation/
+
+- https://www.squash.io/how-to-convert-json-to-csv-in-python/
+
+- https://www.digitalocean.com/community/tutorials/python-read-file-open-write-delete-copy
