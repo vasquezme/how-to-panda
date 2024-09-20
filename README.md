@@ -1,5 +1,5 @@
-# how-to-panda
-how-to-panda
+# how-to-pandas
+how-to-pandas
 
 Use Python Pandas to explore, summarize and visualize data
 
