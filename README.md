@@ -1,7 +1,7 @@
 # how-to-panda
 how-to-panda
 
-Used Python Pandas to explore, summarize and visualize
+Use Python Pandas to explore, summarize and visualize data
 
 Steps:
 - upload .csv
